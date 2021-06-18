@@ -1,4 +1,4 @@
-## Bem-Vindos ao meu Github, eu sou o Walter Mateus 
+## Olá eu sou o Walter Mateus, sejam todos bem-vindos ao meu Github!
 <div>
   <a href="https://github.com/walterharder">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walterharder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
